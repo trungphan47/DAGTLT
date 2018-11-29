@@ -1,0 +1,8 @@
+ Ma tran sau khi du doan cac rating con thieu
+
+          u0    u1    u2
+         -------------------------------------
+
+ i0 |       1     2     3
+ i1 |       4    56     8
+ i2 |       9     5     3
